@@ -26,7 +26,7 @@ function Button({
       'text-green-500': outline && success,
       'text-yellow-400': outline && warning,
       'text-red-500': outline && danger,
-    }
+    } 
   );
 
   return (
